@@ -1,0 +1,70 @@
+.img{
+  position: absolute;
+
+}
+.reward {
+  position: absolute;
+  font-size: 1.5em;
+  margin-left: 13%;
+  margin-top: 2%;
+  color: #FFFFFF
+}
+.orange {
+   color: orange;
+}
+.affiche {
+  opacity: 0.7;
+  margin: 0;
+  padding: 0;
+  width: 100%;
+}
+.affiche:hover .reward {
+  visibility: hidden;
+}
+.affiche:hover {
+  opacity: 1;
+}
+.card {
+  margin: auto;
+  padding: 0;
+  width: 100%;
+}
+.card-text {
+  text-align: center;
+  font-size: 1.5em;
+  font-family: Verdana, sans-serif;
+}
+.container {
+  margin: 3%;
+}
+.button {
+  display: flex;
+  justify-content: center;
+}
+table {
+  border-collapse: collapse;
+  text-align: center;
+
+}
+td, th {
+  border: 1px solid black;
+  padding-top: 1%;
+  padding-bottom: 1%;
+
+}
+.casegrise {
+  background-color: grey;
+}
+blockquote {
+  padding-top: 2%;
+  
+}
+form {
+  margin: 3%;
+}
+.espaceForm {
+  margin: 3%;
+}
+.fellows {
+  margin-top: 3%;
+}
